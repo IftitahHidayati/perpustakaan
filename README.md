@@ -37,20 +37,6 @@ Laravel 8 pepustakaan dibuat oleh :
 - email: peminjam@gmail.com
 - Password: 123123123
 
-## Install
-
-**Clone Repository**
-
-```bash
-git clone https://github.com/musyahya/laravel8_perpustakaan.git
-```
-
-**Download zip**
-
-```bash
-extract file zip
-```
-
 ## Buka di kode editor
 
 
